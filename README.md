@@ -1,0 +1,1 @@
+The program spoofs the DNS request sent to the server. The IP address recieved from a particular DNS server can be manipulated when Man in the middle access is gained. The data packets flow through the hacker computer,hence it can be controlled and manipulated.
